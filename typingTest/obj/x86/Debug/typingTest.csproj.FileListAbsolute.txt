@@ -1,0 +1,9 @@
+D:\Downloads\PROJETOS\typingTest\typingTest\bin\Debug\typingTest.exe
+D:\Downloads\PROJETOS\typingTest\typingTest\bin\Debug\typingTest.pdb
+D:\Downloads\PROJETOS\typingTest\typingTest\obj\x86\Debug\typingTest.frmPrincipal.resources
+D:\Downloads\PROJETOS\typingTest\typingTest\obj\x86\Debug\typingTest.Properties.Resources.resources
+D:\Downloads\PROJETOS\typingTest\typingTest\obj\x86\Debug\typingTest.csproj.GenerateResource.Cache
+D:\Downloads\PROJETOS\typingTest\typingTest\obj\x86\Debug\typingTest.exe
+D:\Downloads\PROJETOS\typingTest\typingTest\obj\x86\Debug\typingTest.pdb
+D:\Downloads\PROJETOS\typingTest\typingTest\obj\x86\Debug\typingTest.csprojResolveAssemblyReference.cache
+D:\Downloads\PROJETOS\typingTest\typingTest\obj\x86\Debug\typingTest.frmSequencias.resources
